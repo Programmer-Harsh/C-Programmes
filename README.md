@@ -1,2 +1,2 @@
-# C-Programmes
-This repository have C programmes.
+# C++
+This repository have C++ programmes.
